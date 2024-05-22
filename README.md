@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🖤
 
-<!--
-**YARAVERONESI/YARAVERONESI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yara Veronesi
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Voce pode entrar em contato comigo atraves do 📧
+
+yaraveronesi89556@gmail.com
+
+![](https://media.tenor.com/0L2w-2XB9H8AAAAM/powerpuff-girls-the-powerpuff-girls.gif)
